@@ -1870,3 +1870,180 @@ coat_strap_r_06
 [2017.08.24-15.51.29:847][760]LogSavePackage: Save=58.55ms
 [2017.08.24-15.51.29:847][760]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_Mannequin943DA95747EE69449EF0A6AF38D3E1D2.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin.uasset'
 [2017.08.24-15.51.29:850][760]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin.uasset
+[2017.08.24-15.51.29:852][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Mannequin_PhysicsAsset" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin_PhysicsAsset.uasset" SILENT=true
+[2017.08.24-15.51.29:864][760]LogSavePackage: Save=11.02ms
+[2017.08.24-15.51.29:864][760]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_Mannequin_PhysicsAssetE4D067DC4954FCE28BFD3A9068056F33.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin_PhysicsAsset.uasset'
+[2017.08.24-15.51.29:868][760]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin_PhysicsAsset.uasset
+[2017.08.24-15.51.29:870][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Mannequin_Skeleton" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin_Skeleton.uasset" SILENT=true
+[2017.08.24-15.51.29:873][760]LogSavePackage: Save=1.72ms
+[2017.08.24-15.51.29:873][760]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_Mannequin_Skeleton13B0535B4E4DA70996C043916ECF470B.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin_Skeleton.uasset'
+[2017.08.24-15.51.29:875][760]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/SK_Mannequin_Skeleton.uasset
+[2017.08.24-15.52.26:533][927]LogSavePackage: Save=8.61ms
+[2017.08.24-15.52.26:533][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/Fbx_Default_Material_1611FAC2B431999D90D96C5AE71F2A111.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Fbx_Default_Material_1.uasset'
+[2017.08.24-15.52.26:536][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Fbx_Default_Material_1.uasset
+[2017.08.24-15.52.26:598][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_UE4Man_Body" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/M_UE4Man_Body.uasset" SILENT=true
+[2017.08.24-15.52.26:617][927]LogSavePackage: Save=14.91ms
+[2017.08.24-15.52.26:617][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/M_UE4Man_BodyC30CDD8745AFA52736D7C1AF9F329E4E.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/M_UE4Man_Body.uasset'
+[2017.08.24-15.52.26:622][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/M_UE4Man_Body.uasset
+[2017.08.24-15.52.26:686][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/SK_Mannequin" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin.uasset" SILENT=true
+[2017.08.24-15.52.26:756][927]LogSavePackage: Save=54.43ms
+[2017.08.24-15.52.26:756][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_MannequinD99E242A4DE4D3FE135543BC0D04F300.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin.uasset'
+[2017.08.24-15.52.26:759][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin.uasset
+[2017.08.24-15.52.26:774][927]LogSavePackage: Save=11.52ms
+[2017.08.24-15.52.26:774][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_Mannequin_PhysicsAsset3CB35342400D9FB141B389A40A3818C2.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin_PhysicsAsset.uasset'
+[2017.08.24-15.52.26:777][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin_PhysicsAsset.uasset
+[2017.08.24-15.52.26:779][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/SK_Mannequin_Skeleton" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin_Skeleton.uasset" SILENT=true
+[2017.08.24-15.52.26:782][927]LogSavePackage: Save=1.87ms
+[2017.08.24-15.52.26:782][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_Mannequin_Skeleton7635980D4749FA520C94F09A930316C2.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin_Skeleton.uasset'
+[2017.08.24-15.52.26:784][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin_Skeleton.uasset
+[2017.08.24-15.52.26:999][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/MontageExample_End_1" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_End_1.uasset" SILENT=true
+[2017.08.24-15.52.27:005][927]LogSavePackage: Save=2.43ms
+[2017.08.24-15.52.27:005][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_End_1EFC84EB74DCA50940F40F09C5F6DFB83.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_End_1.uasset'
+[2017.08.24-15.52.27:006][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_End_1.uasset
+[2017.08.24-15.52.27:008][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/MontageExample_End_2" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_End_2.uasset" SILENT=true
+[2017.08.24-15.52.27:013][927]LogSavePackage: Save=2.16ms
+[2017.08.24-15.52.27:013][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_End_2163868E94FF458A4A3546497F49B51D6.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_End_2.uasset'
+[2017.08.24-15.52.27:014][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_End_2.uasset
+[2017.08.24-15.52.27:028][927]LogSavePackage: Save=5.19ms
+[2017.08.24-15.52.27:028][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_Punch_1054F890B48F454F3F63D13BE733E6B3E.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Punch_1.uasset'
+[2017.08.24-15.52.27:031][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Punch_1.uasset
+[2017.08.24-15.52.27:046][927]LogSavePackage: Save=5.12ms
+[2017.08.24-15.52.27:046][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_Punch_20C92F58A4EAC85FEC84328AA077B0381.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Punch_2.uasset'
+[2017.08.24-15.52.27:051][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Punch_2.uasset
+[2017.08.24-15.52.27:055][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/MontageExample_Start" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Start.uasset" SILENT=true
+[2017.08.24-15.52.27:068][927]LogSavePackage: Save=5.02ms
+[2017.08.24-15.52.27:069][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_StartB131911841DF455CE67491B0BA87F240.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Start.uasset'
+[2017.08.24-15.52.27:071][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/MontageExample_Start.uasset
+[2017.08.24-15.52.27:075][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThirdPersonIdle" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonIdle.uasset" SILENT=true
+[2017.08.24-15.52.27:088][927]LogSavePackage: Save=6.00ms
+[2017.08.24-15.52.27:088][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonIdleC8BC335246C00B4B3444088FFD600956.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonIdle.uasset'
+[2017.08.24-15.52.27:093][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonIdle.uasset
+[2017.08.24-15.52.27:096][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThirdPersonJump_End" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_End.uasset" SILENT=true
+[2017.08.24-15.52.27:110][927]LogSavePackage: Save=5.15ms
+[2017.08.24-15.52.27:110][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonJump_EndAF1F2FD5431754E9577879AE4397635D.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_End.uasset'
+[2017.08.24-15.52.27:114][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_End.uasset
+[2017.08.24-15.52.27:118][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThirdPersonJump_Loop" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_Loop.uasset" SILENT=true
+[2017.08.24-15.52.27:134][927]LogSavePackage: Save=5.30ms
+[2017.08.24-15.52.27:134][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonJump_LoopFD98B97F47B20361892EFDA586E4B46C.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_Loop.uasset'
+[2017.08.24-15.52.27:136][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_Loop.uasset
+[2017.08.24-15.52.27:146][927]LogSavePackage: Save=2.86ms
+[2017.08.24-15.52.27:146][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonJump_Start7794EA8B4FFD28BDEB74B6AB71B12B1C.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_Start.uasset'
+[2017.08.24-15.52.27:147][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonJump_Start.uasset
+[2017.08.24-15.52.27:149][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThirdPersonRun" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonRun.uasset" SILENT=true
+[2017.08.24-15.52.27:157][927]LogSavePackage: Save=3.14ms
+[2017.08.24-15.52.27:157][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonRunDDF4E19040DFDA4B43E9C490B76B6766.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonRun.uasset'
+[2017.08.24-15.52.27:158][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonRun.uasset
+[2017.08.24-15.52.27:160][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThirdPersonWalk" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonWalk.uasset" SILENT=true
+[2017.08.24-15.52.27:168][927]LogSavePackage: Save=2.53ms
+[2017.08.24-15.52.27:168][927]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonWalk160FF1B341DC1F77A0B7CC97B60199A3.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonWalk.uasset'
+[2017.08.24-15.52.27:169][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Animations/ThirdPersonWalk.uasset
+[2017.08.24-15.52.30:140][183]LogSavePackage: Save=4.56ms
+[2017.08.24-15.52.30:140][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_End_1551B05494A66886904EA7D925A6CC3F5.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_End_1.uasset'
+[2017.08.24-15.52.30:143][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_End_1.uasset
+[2017.08.24-15.52.30:156][183]LogSavePackage: Save=4.07ms
+[2017.08.24-15.52.30:156][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_End_28D6DEF0047B2E57514B64F975A2CD6E0.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_End_2.uasset'
+[2017.08.24-15.52.30:159][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_End_2.uasset
+[2017.08.24-15.52.30:173][183]LogSavePackage: Save=4.17ms
+[2017.08.24-15.52.30:173][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_Punch_1F7002A244C17DA139B4E7CA51FF13ED2.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_Punch_1.uasset'
+[2017.08.24-15.52.30:176][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_Punch_1.uasset
+[2017.08.24-15.52.30:187][183]LogSavePackage: Save=3.97ms
+[2017.08.24-15.52.30:187][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_Punch_22472692A409764D2B93F2798611456E8.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_Punch_2.uasset'
+[2017.08.24-15.52.30:189][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_Punch_2.uasset
+[2017.08.24-15.52.30:201][183]LogSavePackage: Save=4.14ms
+[2017.08.24-15.52.30:201][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/MontageExample_Start6C14B75D4C35DDE3B9791CB38BD5934C.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_Start.uasset'
+[2017.08.24-15.52.30:203][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/MontageExample_Start.uasset
+[2017.08.24-15.52.30:215][183]LogSavePackage: Save=4.32ms
+[2017.08.24-15.52.30:215][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonIdle57B63FBF421B461DCBE795B2BF726811.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonIdle.uasset'
+[2017.08.24-15.52.30:216][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonIdle.uasset
+[2017.08.24-15.52.30:230][183]LogSavePackage: Save=4.14ms
+[2017.08.24-15.52.30:230][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonJump_End2FD3542D4ACD22F883499C8FCF06B1B0.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonJump_End.uasset'
+[2017.08.24-15.52.30:232][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonJump_End.uasset
+[2017.08.24-15.52.30:246][183]LogSavePackage: Save=4.17ms
+[2017.08.24-15.52.30:246][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonJump_Loop04B0C6AB4FF5286A7D3021A5BEBDCE96.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonJump_Loop.uasset'
+[2017.08.24-15.52.30:248][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonJump_Loop.uasset
+[2017.08.24-15.52.30:260][183]LogSavePackage: Save=4.22ms
+[2017.08.24-15.52.30:260][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonJump_Start5145989E429E7FFB955562BD3D6179D2.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonJump_Start.uasset'
+[2017.08.24-15.52.30:261][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonJump_Start.uasset
+[2017.08.24-15.52.30:273][183]LogSavePackage: Save=4.19ms
+[2017.08.24-15.52.30:273][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonRun93D276A44EC86DED0CA88CBFB6DF3C52.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonRun.uasset'
+[2017.08.24-15.52.30:276][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonRun.uasset
+[2017.08.24-15.52.30:288][183]LogSavePackage: Save=4.41ms
+[2017.08.24-15.52.30:288][183]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/ThirdPersonWalk9216654048FEB2AA9B9FE8829C8D125E.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonWalk.uasset'
+[2017.08.24-15.52.30:290][183]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/ThirdPersonWalk.uasset
+[2017.08.24-15.53.32:782][570]LogTexture:Display: Building textures: SunsetAmbientCubemap (RGBA16F)
+[2017.08.24-15.53.39:401][570]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.08.24-15.53.39:890][570]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.08.24-15.56.16:516][429]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2017.08.24-15.56.16:705][430]LogRenderer: Reallocating scene render targets to support 856x576 NumSamples 1 (Frame:25754).
+[2017.08.24-15.56.36:541][736]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.08.24-15.59.33:673][899]Cmd: TRANSACTION UNDO
+[2017.08.24-15.59.33:673][899]LogEditorTransaction: Undo Edit Skeleton
+[2017.08.24-15.59.33:676][899]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.08.24-15.59.33:678][899]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.08.24-15.59.33:682][899]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.08.24-16.04.55:127][913]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.08.24-16.04.55:216][914]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ThirdPersonBasic
+
+[2017.08.24-16.04.55:216][914]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.08.24-16.04.55:216][914]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.08.24-16.04.55:217][914]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.08.24-16.04.55:217][914]LogTemp:Display: BranchPath = L1411MICRO12/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = L1411MICRO12/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\logonrm\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.08.24-16.04.55:368][918]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.08.24-16.20.59:064][935]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.08.24-16.20.59:102][936]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ThirdPersonBasic
+
+[2017.08.24-16.20.59:102][936]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.08.24-16.20.59:102][936]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.08.24-16.20.59:102][936]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.08.24-16.20.59:102][936]LogTemp:Display: BranchPath = L1411MICRO12/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = L1411MICRO12/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\logonrm\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.08.24-16.20.59:121][937]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.08.24-16.22.52:024][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterMaterial" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset" SILENT=true
+[2017.08.24-16.22.52:035][522]LogSavePackage: Save=9.34ms
+[2017.08.24-16.22.52:035][522]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/CharacterMaterialFAC629C34C330E920CEBDFB4460BC431.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset'
+[2017.08.24-16.22.52:039][522]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset
+[2017.08.24-16.22.58:124][706]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.22.58:383][706]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.22.58:392][706]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.22.59:517][733]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.22.59:517][733]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.22.59:517][733]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.24.00:770][882]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.24.00:779][882]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.24.00:780][882]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.24.01:963][907]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.24.01:963][907]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.24.01:963][907]MaterialEditorStats: Info Texture samplers: 0/16
