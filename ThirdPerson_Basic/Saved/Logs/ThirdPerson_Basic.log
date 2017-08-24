@@ -2246,3 +2246,24 @@ coat_strap_r_06
 [2017.08.24-16.43.12:953][716]LogSavePackage: Save=2.74ms
 [2017.08.24-16.43.12:953][716]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/CharacterMaterial_Inst6A89DCA74A5224A2089134A3B967397B.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial_Inst.uasset'
 [2017.08.24-16.43.12:955][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial_Inst.uasset
+[2017.08.24-16.43.12:959][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterMaterial" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset" SILENT=true
+[2017.08.24-16.43.12:967][716]LogSavePackage: Save=2.67ms
+[2017.08.24-16.43.12:967][716]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/CharacterMaterialD3A4D92748BA1E6AAF4834BAB3783DD6.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset'
+[2017.08.24-16.43.12:969][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset
+[2017.08.24-16.46.23:307][378]LogSavePackage: Save=3.76ms
+[2017.08.24-16.46.23:307][378]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/idle_Walk_RunC394C6C7446E13BEA6CAACB0AFA8AD1B.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/idle_Walk_Run.uasset'
+[2017.08.24-16.46.23:309][378]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/idle_Walk_Run.uasset
+[2017.08.24-16.46.51:233][279]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.08.24-16.46.51:431][279]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.08.24-16.48.53:332][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.008
+[2017.08.24-16.48.53:335][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animations/idle_Walk_Run] ([1] browsable assets)...
+[2017.08.24-16.48.53:335][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/idle_Walk_Run]
+[2017.08.24-16.48.53:341][443]LogSavePackage: Save=1.24ms
+[2017.08.24-16.48.53:341][443]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/idle_Walk_Run_Auto2B5FFEE4042716E4D2D7FEEB77873A2A9.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/Autosaves/Game/Character/Animations/idle_Walk_Run_Auto2.uasset'
+[2017.08.24-16.48.53:342][443]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/Autosaves/Game/Character/Animations/idle_Walk_Run_Auto2.uasset
+[2017.08.24-16.48.53:342][443]LogFileHelpers: Auto-saving content packages took 0.009
+[2017.08.24-16.51.17:090][976]LogSavePackage: Save=1.61ms
+[2017.08.24-16.51.17:090][976]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/idle_Walk_RunE3E4C5D044DFED9CBD7E848E9F038D1C.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/idle_Walk_Run.uasset'
+[2017.08.24-16.51.17:093][976]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/idle_Walk_Run.uasset
+[2017.08.24-16.51.19:383][ 15]LogSavePackage: Save=6.59ms
+[2017.08.24-16.51.19:383][ 15]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/idle_Walk_RunE2C36E6442530FA3BABE879F4BF0A5EC.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/Animations/idle_Walk_Run.uasset'
