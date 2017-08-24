@@ -2047,3 +2047,202 @@ coat_strap_r_06
 [2017.08.24-16.24.01:963][907]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
 [2017.08.24-16.24.01:963][907]MaterialEditorStats: Info Vertex shader: 29 instructions
 [2017.08.24-16.24.01:963][907]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.28.17:106][985]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.28.17:529][994]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.28.17:902][  2]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.28.19:061][ 26]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.28.19:115][ 27]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.01:897][974]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.29.01:906][974]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.29.01:936][974]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.03:094][999]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.29.03:094][999]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.29.03:094][999]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.29.04:446][ 62]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.29.04:455][ 62]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.29.04:480][ 62]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.05:412][ 81]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.29.05:412][ 81]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.29.05:412][ 81]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.29.10:832][294]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.29.10:841][294]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.29.10:869][294]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.11:688][311]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.29.11:689][311]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.29.11:689][311]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.29.29:623][891]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.29.29:632][891]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.29.29:660][891]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.30:531][910]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.29.30:531][910]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.29.30:531][910]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.29.48:225][369]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.29.48:235][369]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.29.48:262][369]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.49:139][388]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.29.49:139][388]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.29.49:139][388]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.29.51:322][516]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.29.51:331][516]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.29.51:356][516]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.29.52:231][535]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.29.52:231][535]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.29.52:231][535]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.30.19:172][463]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.19:183][463]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.19:211][463]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.30.20:335][487]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.30.20:335][487]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.30.20:335][487]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.30.41:842][956]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.41:853][956]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.43:038][982]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.30.43:038][982]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.30.43:038][982]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.30.44:866][ 48]LogEditorTransaction: Undo Move Node
+[2017.08.24-16.30.44:868][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.08.24-16.30.44:916][ 48]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.44:926][ 48]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.44:929][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.08.24-16.30.44:932][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.08.24-16.30.45:153][ 55]LogEditorTransaction: Undo Material Editor: New Expression
+[2017.08.24-16.30.45:161][ 55]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.45:176][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.08.24-16.30.45:179][ 55]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.45:191][ 55]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.45:194][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.08.24-16.30.45:196][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.08.24-16.30.46:005][ 92]LogEditorTransaction: Undo Material Editor: New Expression
+[2017.08.24-16.30.46:055][ 92]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.46:067][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.08.24-16.30.46:071][ 92]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.46:081][ 92]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.46:085][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.08.24-16.30.46:087][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.08.24-16.30.46:817][108]LogEditorTransaction: Undo Rename Node
+[2017.08.24-16.30.46:820][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.08.24-16.30.46:872][108]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.46:884][108]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.46:916][108]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.30.46:922][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.08.24-16.30.46:924][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.08.24-16.30.47:805][127]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.30.47:805][127]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.30.47:805][127]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.30.49:665][165]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.30.49:684][165]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.30.50:539][184]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.30.50:539][184]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.30.50:539][184]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.32.10:708][307]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.32.10:717][307]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.32.11:858][332]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.32.11:858][332]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.32.11:858][332]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.33.03:240][778]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.33.03:248][778]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.33.05:588][902]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.33.05:588][902]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.33.05:588][902]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.33.20:952][306]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.33.20:962][306]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.33.21:815][325]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.33.21:816][325]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.33.21:816][325]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.33.34:078][787]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.33.34:088][787]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.33.34:895][805]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.33.34:895][805]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.33.34:895][805]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.33.47:698][295]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.33.47:707][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.33.47:734][295]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.33.48:606][314]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.33.48:606][314]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.33.48:606][314]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.33.59:310][742]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.33.59:319][742]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.33.59:349][742]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.08.24-16.34.00:311][763]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.34.00:311][763]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.34.00:311][763]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.34.06:337][935]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.34.06:346][935]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.34.07:762][996]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.34.07:762][996]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.34.07:762][996]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.34.14:431][247]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.34.14:440][247]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.34.15:247][265]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.24-16.34.15:247][265]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.34.15:247][265]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.34.59:256][908]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.34.59:281][908]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.35.00:432][933]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 41 instructions
+[2017.08.24-16.35.00:432][933]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.35.00:432][933]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.35.49:965][619]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.35.49:974][619]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.35.51:156][645]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2017.08.24-16.35.51:156][645]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.35.51:156][645]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.36.15:452][617]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.36.15:462][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.36.16:612][644]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2017.08.24-16.36.16:612][644]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.36.16:612][644]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.36.55:580][537]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.36.55:610][537]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.36.56:748][562]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2017.08.24-16.36.56:748][562]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.36.56:748][562]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.36.57:630][582]LogEditorTransaction: Undo Edit Default Value
+[2017.08.24-16.36.57:681][582]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.36.57:693][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.08.24-16.36.57:697][582]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.36.57:708][582]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.36.57:712][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.08.24-16.36.57:714][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.08.24-16.37.11:566][  5]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.37.11:596][  5]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.37.12:496][ 25]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2017.08.24-16.37.12:496][ 25]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.37.12:496][ 25]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.37.15:919][100]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.37.15:931][100]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.37.16:849][120]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2017.08.24-16.37.16:849][120]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.37.16:849][120]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.37.21:276][219]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.37.21:287][219]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.37.22:166][238]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2017.08.24-16.37.22:166][238]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.37.22:166][238]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.24-16.37.53:735][903]LogMaterialEditor: Saving and Compiling material CharacterMaterial
+[2017.08.24-16.37.54:185][903]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.37.54:203][903]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.37.54:231][903]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.37.54:250][903]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.37.54:267][903]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.37.56:242][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterMaterial" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset" SILENT=true
+[2017.08.24-16.37.56:258][903]LogSavePackage: Save=12.38ms
+[2017.08.24-16.37.56:258][903]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/CharacterMaterial9248ED1E4183485E1E6AAB852DD1EF3E.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset'
+[2017.08.24-16.37.56:261][903]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial.uasset
+[2017.08.24-16.37.56:264][903]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 77 instructions
+[2017.08.24-16.37.56:264][903]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.24-16.37.56:264][903]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.08.24-16.39.24:316][811]LogRenderer: Reallocating scene render targets to support 988x612 NumSamples 1 (Frame:110705).
+[2017.08.24-16.40.43:560][768]LogSavePackage: Save=11.24ms
+[2017.08.24-16.40.43:560][768]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/CharacterMaterial_InstD41469564F5ED970F0A9FB8C138BAA59.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial_Inst.uasset'
+[2017.08.24-16.40.43:563][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial_Inst.uasset
+[2017.08.24-16.40.57:476][ 19]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2017.08.24-16.42.24:079][ 87]LogMaterial:Warning: Material /Game/Character/CharacterMaterial.CharacterMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2017.08.24-16.42.24:087][ 87]LogMaterial: Missing cached shader map for material CharacterMaterial, compiling. 
+[2017.08.24-16.42.24:120][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.24-16.43.06:903][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/SK_Mannequin" FILE="../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin.uasset" SILENT=true
+[2017.08.24-16.43.06:996][633]LogSavePackage: Save=77.84ms
+[2017.08.24-16.43.06:996][633]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/SK_Mannequin0934D0F141601BC8F67DBB949D434A69.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin.uasset'
+[2017.08.24-16.43.06:998][633]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/SK_Mannequin.uasset
+[2017.08.24-16.43.12:953][716]LogSavePackage: Save=2.74ms
+[2017.08.24-16.43.12:953][716]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Saved/CharacterMaterial_Inst6A89DCA74A5224A2089134A3B967397B.tmp' to '../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial_Inst.uasset'
+[2017.08.24-16.43.12:955][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/Aula 24-08/ThirdPerson_Basic/Content/Character/CharacterMaterial_Inst.uasset
